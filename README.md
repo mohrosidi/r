@@ -1,2 +1,1 @@
-# r
-R Code
+# Materi Praktek Social Media Analytics Workshop Menggunakan R
